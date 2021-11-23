@@ -1,17 +1,8 @@
 ### Analysis of coverage for populations and clones with pf5r mutations
 
-
 library(tidyverse)
 library(ggpubr)
 library(extrafont)
-
-library(extrafontdb)
-
-library(gridExtra)
-library(Sushi)
-library(ggrepel)
-library(ggsci)
-
 
 setwd("/Users/mrs/Documents/prophage/coverage/output")
 
